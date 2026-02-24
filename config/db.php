@@ -2,7 +2,7 @@
 
 return [
     'class' => yii\db\Connection::class,
-    'dsn' => 'sqlsrv:Server=localhost;Database=teste',
+    'dsn' => 'sqlsrv:Server=localhost;Database=dados',
     'username' => 'sa',
     'password' => 'Victor123',
     'charset' => 'utf8',
