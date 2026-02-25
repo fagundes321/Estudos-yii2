@@ -9,9 +9,9 @@ use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 
 /**
- * PessoasController implements the CRUD actions for Pessoas model.
+ * PessoaController implements the CRUD actions for Pessoas model.
  */
-class PessoasController extends Controller
+class PessoaController extends Controller
 {
     /**
      * @inheritDoc
