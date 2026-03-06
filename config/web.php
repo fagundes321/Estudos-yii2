@@ -42,14 +42,15 @@ $config = [
             ],
         ],
         'db' => $db,
-        /*
+        
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
+                '' => 'pessoas/pessoas-index'
             ],
         ],
-        */
+        
     ],
     'params' => $params,
 ];
