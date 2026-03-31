@@ -1,1 +1,1 @@
-// alert("Funcionou");
+alert("Funcionou");
